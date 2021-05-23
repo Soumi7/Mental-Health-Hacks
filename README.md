@@ -11,6 +11,8 @@ Men and women are oppressed. They don't speak openly about their personal proble
 
 Many people have bravely overcome their problems.
 
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/speakup_login.png)
+
 ## About Speak Up
 
 Speak up is a space for individuals to support each other. This is a dedicated platform for positive growth, development and opportunities. Individuals can speak about mental, physical and financial issues.
