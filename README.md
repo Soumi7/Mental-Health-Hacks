@@ -22,6 +22,8 @@ Speakup is a platform for people to talk about their personal problems, the issu
 - Financial
 - Workspace
 
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/frontpg.png)
+
 ### Mandatory Fields in each Post 
 
 Problem Title (5 words)
