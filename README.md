@@ -1,5 +1,7 @@
 # Speak Up - Mental Health Hacks 2021
 
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/speakup_home.png)
+
 ## Inspiration
 
  Humiliation is one of the primary reasons why men and women do not come forward to report their mental health issues.
