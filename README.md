@@ -1,3 +1,4 @@
+![mentalHealth](https://user-images.githubusercontent.com/53037053/119263082-3c6e9e80-bbfb-11eb-80aa-5846029628ba.jpeg)
 # Speak Up - Mental Health Hacks 2021
 
 ### Check out our application <a href="https://mentalhealthweb.herokuapp.com/">here</a>
