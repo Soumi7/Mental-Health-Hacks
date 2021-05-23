@@ -13,6 +13,8 @@ Many people have bravely overcome their problems.
 
 ![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/speakup_login.png)
 
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/speakup_signup.png)
+
 ## About Speak Up
 
 Speak up is a space for individuals to support each other. This is a dedicated platform for positive growth, development and opportunities. Individuals can speak about mental, physical and financial issues.
@@ -48,11 +50,11 @@ We have used react for the front end and node.js for the backend. We used heroku
 
 ## Challenges we ran into
 
-We hosted a react app for the first time with Heroku! We ran into some issues in the beginning while getting everything to work.Mental health of women is something that need to be talked about more openly.
-People who have suffered from it must given an opportunity to come out with their story so that the next generation of people can safely tackle it.
+We hosted a react app for the first time with Heroku! We ran into some issues in the beginning while getting everything to work.Mental health of people is something that need to be talked about more openly.
+People who have suffered from it must be given an opportunity to come out with their story so that the next generation of people can safely tackle it.
 
 ## Accomplishments that we're proud of
-Hosted the application so that women across the world have a space to speak up about their issues. Got it to work!
+Hosted the application so that people across the world have a space to speak up about their mental issues. Got it to work!
 
 ## What's next for Speak Up
 We aim to make more and moreindividuals aware of this platform and encourage them to speak up about the problems that they are facing in their day to day life. We aim to make their voices heard.
