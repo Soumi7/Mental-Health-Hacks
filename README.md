@@ -1,6 +1,6 @@
 # Speak Up - Mental Health Hacks 2021
 
-Check out our application <a href="https://mentalhealthweb.herokuapp.com/">here</a>
+### Check out our application <a href="https://mentalhealthweb.herokuapp.com/">here</a>
 
 
 ## Inspiration
