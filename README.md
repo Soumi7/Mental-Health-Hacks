@@ -34,12 +34,18 @@ Problem Title (5 words)
 - Advice for people going through the same
 - This is so that people can learn from each other's experiences.
 
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/add_post.png)
+
 ## How we built it
 
 We have used react for the front end and node.js for the backend. We used heroku to deploy our website.
+
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/read_post.png)
+
 ## Challenges we ran into
+
 We hosted a react app for the first time with Heroku! We ran into some issues in the beginning while getting everything to work.Mental health of women is something that need to be talked about more openly.
-People who have suffered from it must given an opportunity to come out with their story so that the next generation of women can safely tackle it.
+People who have suffered from it must given an opportunity to come out with their story so that the next generation of people can safely tackle it.
 
 ## Accomplishments that we're proud of
 Hosted the application so that women across the world have a space to speak up about their issues. Got it to work!
