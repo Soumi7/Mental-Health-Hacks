@@ -16,7 +16,11 @@ Many people have bravely overcome their problems.
 ## About Speak Up
 
 Speak up is a space for individuals to support each other. This is a dedicated platform for positive growth, development and opportunities. Individuals can speak about mental, physical and financial issues.
+
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/posts_grid.png)
+
 Speakup is a platform for people to talk about their personal problems, the issues they are facing in their daily lives. They can come forward with solutions to the problems as well, along with resources that could help them.
+
 - Mental Health
 - Physical Health
 - Financial
