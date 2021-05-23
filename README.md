@@ -1,6 +1,7 @@
 # Speak Up - Mental Health Hacks 2021
 
-![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/speakup_home.png)
+Check out our application <a href="https://mentalhealthweb.herokuapp.com/">here</a>
+
 
 ## Inspiration
 
@@ -19,7 +20,10 @@ Many people have bravely overcome their problems.
 
 Speak up is a space for individuals to support each other. This is a dedicated platform for positive growth, development and opportunities. Individuals can speak about mental, physical and financial issues.
 
-![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/posts_grid.png)
+
+
+
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/speakup_home.png)
 
 Speakup is a platform for people to talk about their personal problems, the issues they are facing in their daily lives. They can come forward with solutions to the problems as well, along with resources that could help them.
 
@@ -39,14 +43,14 @@ Problem Title (5 words)
 - How they overcame the situation
 - Advice for people going through the same
 - This is so that people can learn from each other's experiences.
+- 
+
 
 ![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/add_post.png)
 
 ## How we built it
 
 We have used react for the front end and node.js for the backend. We used heroku to deploy our website.
-
-![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/read_post.png)
 
 ## Challenges we ran into
 
@@ -55,6 +59,9 @@ People who have suffered from it must be given an opportunity to come out with t
 
 ## Accomplishments that we're proud of
 Hosted the application so that people across the world have a space to speak up about their mental issues. Got it to work!
+
+![img](https://github.com/Soumi7/Mental-Health-Hacks/blob/main/img/posts_grid.png)
+
 
 ## What's next for Speak Up
 We aim to make more and moreindividuals aware of this platform and encourage them to speak up about the problems that they are facing in their day to day life. We aim to make their voices heard.
